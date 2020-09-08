@@ -1,6 +1,7 @@
 # Bryce(Zihao) Xu's Portfolio
 
 Hi, it's Bryce here😁
+📧 Bryce.xu@hotmail.com
 
 # Project 1: [React Movie Library](https://d1z6rfqqiywrss.cloudfront.net/)
 * [Souce Code](https://github.com/brycexzh/react-movie-library)👨🏻‍💻
