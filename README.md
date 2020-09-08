@@ -17,6 +17,8 @@ Technology Stack:
 * Slack, [Sentry](https://www.sentry.io)
 * [The Movie DB Api](https://www.themoviedb.org/)
 
+![](/images/MovieLib.png)
+
 
 # Project 2: Stock Portfolio Management Web App
 * [Souce Code](https://gitlab.com/bryce.xu727/idiotandgenius)👨🏻‍💻
@@ -36,6 +38,8 @@ Machine learning and deep learning methods such as LSTM
 are applied to predict the price and trend of a single stock,
 and to analyse the profitability of the stock portfolio.
 
+![](/images/Idiot%26Genius_final_report_Project6%200.jpg)
+
 Technology Stack:
 * Reactjs, Redux, Material-UI, React-Router, axios
 * [Hicharts](https://www.highcharts.com/)
@@ -45,3 +49,9 @@ Technology Stack:
 * Microservice Architecture
 * [Stock News Api](https://stocknewsapi.com/)
 * [Alpha Vantage Api](https://www.alphavantage.co/)
+
+
+![](/images/Idiot%26Genius_final_report_Project6%203.jpg)
+![](/images/Idiot%26Genius_final_report_Project6%204.jpg)
+![](/images/Idiot%26Genius_final_report_Project6.jpg)
+
