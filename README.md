@@ -39,7 +39,7 @@ Machine learning and deep learning methods such as LSTM
 are applied to predict the price and trend of a single stock,
 and to analyse the profitability of the stock portfolio.
 
-![](/images/Idiot%26Genius_final_report_Project6%200.jpg)
+![](/images/StockPortfolio0.jpg)
 
 Technology Stack:
 * Reactjs, Redux, Material-UI, React-Router, axios
@@ -52,7 +52,7 @@ Technology Stack:
 * [Alpha Vantage Api](https://www.alphavantage.co/)
 
 
-![](/images/Idiot%26Genius_final_report_Project6%203.jpg)
-![](/images/Idiot%26Genius_final_report_Project6%204.jpg)
-![](/images/Idiot%26Genius_final_report_Project6.jpg)
+![](/images/StockPortfolio3.jpg)
+![](/images/StockPortfolio4.jpg)
+![](/images/StockPortfolio1.jpg)
 
